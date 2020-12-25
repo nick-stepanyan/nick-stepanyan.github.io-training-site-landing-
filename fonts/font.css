@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Gotham-Black';
+    src: url('Gotham-Black.eot');
+    src: url('Gotham-Black.eot?#iefix') format('embedded-opentype'), url('Gotham-Black.svg#Gotham-Black') format('svg'), url('Gotham-Black.ttf') format('truetype'), url('Gotham-Black.woff') format('woff'), url('Gotham-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque Bold';
+    src: url('BrandonGrotesque-Bold.eot');
+    src: url('BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'), url('BrandonGrotesque-Bold.woff') format('woff'), url('BrandonGrotesque-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: local('Gotham Bold'), local('Gotham-Bold'), url('Gotham-Bold.woff2') format('woff2'), url('Gotham-Bold.woff') format('woff'), url('Gotham-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
